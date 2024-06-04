@@ -1,0 +1,17 @@
+{
+  "name": "alg-md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mr Alberno",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.4",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {},
+  "description": "MarchéExpress est votre compagnon ultime pour une expérience d'achat en ligne sans tracas sur WhatsApp. Avec MarchéExpress, vous pouvez parcourir une large sélection de produits, des articles ménagers aux gadgets high-tech, et passer des commandes directement depuis votre application WhatsApp préférée."
+}
